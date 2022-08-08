@@ -1,0 +1,6 @@
+id,created_at,status,phone1,email,first,last,address1,address2,city,state,zip,called_count
+1,2021-10-09T09:08:56-05:00,AA,+15414739087,jsample@fakemail.com,Joe,Sample,1234 NE Test St,,Spokane,WA,99202,12
+2,2021-10-09T10:03:23-05:00,SALE,+15052235678,sommer.mannis@gmail.com,Sommer,Mannis,,,,,08762,1
+3,2021-10-09T12:54:12-05:00,,+19717362871,wdickson@nike.com,Walter,D,,,,,,55
+4,2021-10-09T12:58:02-05:00,AA,,jthemanpeters@yahoo.com,James,Peters,11487 N Evergreen St,,Boise,ID,89369,18
+5,2021-10-09T12:58:18-05:00,DNC,+16618995419,andrew.v@microsoft.com,ANDREW,VANCE,99 E Rosa Parks,Unit 1234,Portland,OR,97215,2

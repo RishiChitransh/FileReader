@@ -29,6 +29,12 @@ func main() {
 	}
 	updateFileMeta()
 	fmt.Println("Data processing completed. Thank You!!")
+
+	/*
+	Enable below to read from storage.
+	Commenting out as currently free available data is ~124 MB in form of a .tar file
+	*/
+	//readFromStorage()
 }
 
 

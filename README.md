@@ -8,7 +8,7 @@ Code for reading/uploading file data
 
 ### initRead.go:
 
-Is the entry point for the application. On running it will initiate a file read on the data directory to read input files
+	-Is the entry point for the application. On running it will initiate a file read on the data directory to read input files
 
 ### DBUtils.go:
 
@@ -36,6 +36,16 @@ File for input file processing:
 
 	- Calculate & verify check sum
 	- Read file line by line
+
+
+### cloudStorageUtils.go
+
+Contains a function to read from a public cloud bucket (Google cloud storage)
+
+	- Using freely available NEXRAD data for demo.
+
+	- https://cloud.google.com/storage/docs/public-datasets/nexrad
+
 
 ### docker-compose.yml
 
